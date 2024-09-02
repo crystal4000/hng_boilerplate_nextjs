@@ -30,6 +30,11 @@ pnpm install
 pnpm dev
 ```
 
+## Links
+- https://hngboilerplate.vercel.app/
+- https://kimiko-golang.teams.hng.tech/
+- [Figma](https://www.figma.com/design/VEItfX6St5NSAqqNHImcxD/HNG-Boilerplate-Designs?node-id=2084-18389&node-type=CANVAS&t=m6aWl98eHCjOrRe7-0)
+
 ## Contributing
 
 Please see [CONTRIBUTING](./CONTRIBUTING.md)
